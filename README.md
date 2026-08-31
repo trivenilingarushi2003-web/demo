@@ -1,3 +1,3 @@
 # demo
-This is my first repositoryi
+This is my first repository
 Author-Triveni
